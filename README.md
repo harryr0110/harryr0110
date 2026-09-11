@@ -16,12 +16,12 @@ I'm currently working on a student grade tracker made with Flask
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📂 Projects
-- 🔍 **[Port Scanner]((https://github.com/harryr0110/Port-Scanner))**
-- 🌦️ **[Weather App]((https://github.com/harryr0110/Weather-App))**
-- 📡 **[Network Ping Sweeper]((https://github.com/harryr0110/Network-Ping-Sweeper))**
-- 🔐 **[CLI Password Manager]((https://github.com/harryr0110/Password-Manager))**
+- 🔍 **[Port Scanner](https://github.com/harryr0110/Port-Scanner)**
+- 🌦️ **[Weather App](https://github.com/harryr0110/Weather-App))**
+- 📡 **[Network Ping Sweeper](https://github.com/harryr0110/Network-Ping-Sweeper)**
+- 🔐 **[CLI Password Manager](https://github.com/harryr0110/Password-Manager)**
 
 ---
 
 ### 🤝 Let's Connect!
-[LinkedIn]((https://www.linkedin.com/in/harry-rison-0a4445358/))
+[LinkedIn](https://www.linkedin.com/in/harry-rison-0a4445358/)
