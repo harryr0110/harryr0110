@@ -1,18 +1,18 @@
 ## Hi! :)
 
-I'm Harry, a Computer Science student at TU Dublin, based in Dublin. I'm currently working toward internships in Cyber Security and Software Engineering.
+I'm Harry, a Computer Science student at TU Dublin. I'm based in Dublin, and currently working toward internships in Cyber Security and Software Engineering.
 
-<!--
-**harryr0110/harryr0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What am I currently working on?**
+I'm currently working on a student grade tracker made with Flask
 
-Here are some ideas to get you started:
+**Technology I have skills in:**
+Linux terminal, C, Python, HTML/CSS, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- Port Scanner: https://github.com/harryr0110/Port-Scanner
+- Weather App: https://github.com/harryr0110/Weather-App
+- Network Ping Sweeper: https://github.com/harryr0110/Network-Ping-Sweeper
+- CLI Password Manager: https://github.com/harryr0110/Password-Manager
+
+**Let's Connect!**
+My LinkedIn Profile: https://www.linkedin.com/in/harry-rison-0a4445358/
