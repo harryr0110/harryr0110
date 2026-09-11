@@ -4,10 +4,10 @@ I'm Harry, a Computer Science student at TU Dublin. I'm based in Dublin, and cur
 
 ---
 
-### 🔨 What am I currently working on?
+### What am I currently working on?
 I'm currently working on a student grade tracker made with Flask
 
-### 🛠️ Technology I have skills in
+### Technology I have skills in:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,7 +15,7 @@ I'm currently working on a student grade tracker made with Flask
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📂 Projects
+### Projects:
 - 🔍 **[Port Scanner](https://github.com/harryr0110/Port-Scanner)**
 - 🌦️ **[Weather App](https://github.com/harryr0110/Weather-App))**
 - 📡 **[Network Ping Sweeper](https://github.com/harryr0110/Network-Ping-Sweeper)**
@@ -23,5 +23,5 @@ I'm currently working on a student grade tracker made with Flask
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/harry-rison-0a4445358/)
