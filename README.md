@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! :)
+
+I'm Harry, a Computer Science student at TU Dublin, based in Dublin. I'm currently working toward internships in Cyber Security and Software Engineering.
 
 <!--
 **harryr0110/harryr0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
